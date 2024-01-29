@@ -1,0 +1,15 @@
+body , html {
+  margin: 0;
+  height: 100%;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.hello ,h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: inherit;
+}
