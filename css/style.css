@@ -1,0 +1,23 @@
+body,
+html {
+  margin: auto;
+  height: 100%;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+.hello {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: inherit;
+}
+
+.error {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: inherit;
+  }
